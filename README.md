@@ -1,6 +1,8 @@
 # Workflow + Calendar Intelligence Suite
 
-**Automate Anything. Schedule Everything. Smartly.**
+**1. Automate Anything. 
+2. Schedule Everything. 
+3. Smartly.**
 
 A comprehensive workflow and calendar automation platform built with React, Node.js, and modern web technologies.
 
